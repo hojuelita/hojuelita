@@ -6,6 +6,6 @@
 - My English level are 85%.
 - I'm patient, optimist, persist, and detail.
 - I'm self-study.
-- My hobbies are study, read and watch tutorials, listen music, sing and cooking.
-- I want to have my own coffee shop. And i'll desing it website!
-- I want to design my own social network and my own OS.
+- My hobbies are videos, music and sing.
+- I want to have my own coffee shop!
+- I want to design my own social network.
