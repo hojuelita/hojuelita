@@ -1,4 +1,4 @@
-<h1>Hello 👋 My name is Yaheni and i'm Computer Scientist Junior</h1><br/>
+<h1>Hello 👋 My name is Yaheni and i'm Computer Scientist</h1><br/>
 ✧ I’m interested in AI, Neural Network and Robotics.<br/>
 ✧ I’m currently taking an advanced course of Python.<br/>
 ✧ I’m looking to collaborate on any project of AI.<br/><br/>
